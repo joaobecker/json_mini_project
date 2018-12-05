@@ -16,5 +16,5 @@ Springboard | Json Project - Data Wrangling
 - [Full data](https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects.json)
 - [Example data](https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects_less.json)
 
-###### More info about the project:
+##### More info about the project:
 - [Data overview and project questions](https://github.com/joaobecker/json_mini_project/blob/master/sliderule_dsi_json_exercise.ipynb)
