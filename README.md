@@ -10,11 +10,11 @@ Springboard | Json Project - Data Wrangling
 
 
 ### Project Data:
-- [Full data] (https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects.json)
-- [Example data] (https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects_less.json)
+- [Full data](https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects.json)
+- [Example data](https://github.com/joaobecker/json_mini_project/blob/master/world_bank_projects_less.json)
 
 ### Data Wrangling:
-- [Data Wragling Jupyter Notebook] (https://github.com/joaobecker/json_mini_project/blob/master/json_mini_project.ipynb)
+- [Data Wragling Jupyter Notebook](https://github.com/joaobecker/json_mini_project/blob/master/json_mini_project.ipynb)
 
 ##### More about the project:
-- [Data overview and project questions] (https://github.com/joaobecker/json_mini_project/blob/master/sliderule_dsi_json_exercise.ipynb)
+- [Data overview and project questions](https://github.com/joaobecker/json_mini_project/blob/master/sliderule_dsi_json_exercise.ipynb)
