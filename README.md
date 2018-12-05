@@ -1,5 +1,4 @@
-# json_mini_project
-Springboard | Json Project - Data Wrangling
+# JSON Project - Data Wrangling 
   - Interacting and performing exploratory analysis with JSON contained data from the World Bank
   - http://jsonstudio.com/resources/
   -  More specifically, answering the following question:
